@@ -1,0 +1,28 @@
+I Mythology -> Philosophy ("Metaphysics of nature" & "Gnoseology of humans")
+
+* Bible
+Socrat/Platon/Aristotle
+Confuci
+Avgustin Blazhennyi, Foma Akvinskii
+Descartes
+* Leibniz
+Kant
+modern(Kuhn etc.) 
+Plank "картина мира современной физики" 1929
+
+II Natural Science before Uni
+
+* Mjakishev 10-11 x5
+Siborg "Chemistry for middle school"
+Pure Maths by Solomon
+videolectures of Chirtsov, Znaemfiz
+Rogers “physics for inquir. mind” 3 toms
+Asimov “short history of Chemistry"
+3b1b “essence of calculus + linear algebra” 
+* Khutoryansky all videos on Physics
+
+III Programming
+
+Tanenbaum Arch & OS & Networks
+Столяров весь курс
+* SICP 
