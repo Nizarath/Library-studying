@@ -20,9 +20,16 @@ Rogers “physics for inquir. mind” 3 toms
 Asimov “short history of Chemistry"
 3b1b “essence of calculus + linear algebra” 
 * Khutoryansky all videos on Physics
+Khan Academy (multivariable calculus)
 
 III Programming
 
 Tanenbaum Arch & OS & Networks
 Столяров весь курс
 * SICP 
+
+IV Natural Science Uni
+
+Uni math: Рудин, SEH, Фихтенгольц (?), Linear algebra done right
+Uni EP: Feynman (all), Alonso/Finn, Halliday-Resnick
+Uni TP: Nolting, Vollmer (TP1-Mechanics), Griffith (TP2-Electrodynamics), Landau & Lifshitz (all)
