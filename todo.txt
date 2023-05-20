@@ -13,6 +13,7 @@ Plank "картина мира современной физики" 1929
 II Natural Science before Uni
 
 * Mjakishev 10-11 x5
+check Peterson 10-11 kl.
 Siborg "Chemistry for middle school"
 Pure Maths by Solomon
 videolectures of Chirtsov, Znaemfiz
@@ -33,3 +34,8 @@ IV Natural Science Uni
 Uni math: Рудин, SEH, Фихтенгольц (?), Linear algebra done right
 Uni EP: Feynman (all), Alonso/Finn, Halliday-Resnick
 Uni TP: Nolting, Vollmer (TP1-Mechanics), Griffith (TP2-Electrodynamics), Landau & Lifshitz (all)
+
+V Languages
+English
+German
+Sindarin/Quenya
