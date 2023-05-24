@@ -18,8 +18,7 @@ Tanenbaum Arch & OS & Networks
 IV Natural Science Uni
 
 Uni math: Фихтенгольц (?), Linear algebra done right
-Uni EP: Feynman (all), Alonso/Finn, Halliday-Resnick
-Uni TP: Nolting, Vollmer (TP1-Mechanics), Griffith (TP2-Electrodynamics), Landau & Lifshitz (all)
+Uni TP: Nolting, Vollmer (TP1-Mechanics), Griffith (TP2-Electrodynamics)
 
 V Languages
 English
